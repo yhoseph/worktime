@@ -12,7 +12,7 @@ import java.util.Date;
  * Created by yhoseph on 03/04/2016.
  */
 @Table
-public class TimerCustom extends Fragment {
+public class TimerCustom {
     @PrimaryKey
     @Field
     public long id;
